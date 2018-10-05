@@ -6,6 +6,7 @@ RUN apt-get update \
   && apt-get install -y --no-install-recommends \
     python-setuptools \
     python-pip \
+    git \
     software-properties-common \
     rsyslog systemd systemd-cron sudo iproute2 \
   && rm -Rf /var/lib/apt/lists/* \
