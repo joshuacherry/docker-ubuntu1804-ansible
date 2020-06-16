@@ -1,10 +1,10 @@
-# Ubuntu 16.04 LTS (Bionic) Ansible Test Image
+# Ubuntu 18.04 LTS (Bionic) Ansible Test Image
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.org/joshuacherry/docker-ubuntu1804-ansible.svg?branch=master)](https://travis-ci.org/joshuacherry/docker-ubuntu1804-ansible)
 [![Docker Automated build](https://img.shields.io/docker/automated/joshuacherry/docker-ubuntu1804-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/joshuacherry/docker-ubuntu1804-ansible/)
 
-Ubuntu 16.04 LTS (Bionic) Docker container for Ansible playbook and role testing.
+Ubuntu 18.04 LTS (Bionic) Docker container for Ansible playbook and role testing.
 
 ## How to Build
 
